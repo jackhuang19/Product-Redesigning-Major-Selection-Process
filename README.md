@@ -52,4 +52,5 @@ To narrow down our best ideas, we individually selected our top two ideas three 
 We decided to focus on our last product – the Explorer Course, which put an emphasis on our main extreme user – the College Sophomore. We tested this idea through creating a mock syllabus and an online survey to gage interest. In total, we surveyed over 100 people across the Claremont Colleges, yielding positive reception. However, there were concerns over logistics and feasibility, which we fixed in our later iterations. Our final presentable product arranges for professors to teach different subjects throughout the same semester for the same cohort of students. 
 
 Explorer Course Syllabus - https://drive.google.com/open?id=1yulh3OmA1ZD-D9L1myZ2N7HBISUEG0hL
+
 Introduction Video - https://drive.google.com/open?id=1KvAMnLluxd9c3DcJp0M-8OCtjVhk-f-7
