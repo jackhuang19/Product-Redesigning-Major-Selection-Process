@@ -1,4 +1,4 @@
-# Product-Redesigning-Major-Selection-Process
+# Product - Redesigning the Major Selection Process
 
 ### Project Introduction:
 During my Human Centered Design Class (2018 Spring), we were challenged by Pitzer College’s admissions office and registrar to redesign the major selection process. Students regularly come into college unsure about what they want to study, and often switch majors two or three times before settling on a final choice. This is especially true at the Claremont Colleges Consortium where there is a wide variety of majors and opportunities to choose from, but because resources are spread across five colleges, students do not learn about certain opportunities later on. Our final product came in the form of an “Explorer Class”, a semester long class where students can choose and combine many different subjects and present a final project that merges these subjects together. We gave our final presentation, in the form of a sample course syllabus and a short demonstration video, to career counselors, admissions officers and academic advisors from the Claremont colleges.
